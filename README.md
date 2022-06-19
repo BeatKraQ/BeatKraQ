@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hyunwoo%20Kim&fontSize=90)
+![gifbackground1](https://user-images.githubusercontent.com/86296329/174467543-fa4dc396-be6f-49f5-8206-45a8105f9adb.gif)
 
 <h3 align="center"> 🛠️Tech Stack 🛠️</h3>
 
