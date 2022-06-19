@@ -17,7 +17,7 @@
 
 <br/>
 <br/>
-<div background-color="white">
+<div class="card card-body bg-light">
   <blockquote>
     <p align="center">
       Hi there! <br/>
