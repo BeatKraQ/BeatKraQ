@@ -24,7 +24,7 @@
 
 <div align="center">
   <a align="center" href="(https://github.com/BeatKraQ/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatkraQ&layout=compact)" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatkraQ&layout=compact" />
   </a >
   
  ---
