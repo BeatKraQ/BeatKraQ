@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-  <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
-  <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
-  <link rel="stylesheet" href="node_modules/bootstrap-social/bootstrap-social.css">
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hyunwoo%20Kim&fontSize=90)
 
 <h3 align="center"> 🛠️Tech Stack 🛠️</h3>
@@ -17,7 +12,7 @@
 
 <br/>
 <br/>
-<div class="card card-body bg-light">
+<div>
   <blockquote>
     <p align="center">
       Hi there! <br/>
@@ -31,6 +26,8 @@
   <a align="center" href="(https://github.com/BeatKraQ/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatkraQ&layout=compact)" />
   </a >
+  
+ ---
 </div>
 <div align="center">
   <a align="center" href="(https://github.com/BeatKraQ/github-readme-stats">
@@ -38,4 +35,3 @@
   </a>
 </div>
 
-</html>
