@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+  <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="node_modules/bootstrap-social/bootstrap-social.css">
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hyunwoo%20Kim&fontSize=90)
 
 <h3 align="center"> 🛠️Tech Stack 🛠️</h3>
@@ -33,3 +38,4 @@
   </a>
 </div>
 
+</html>
