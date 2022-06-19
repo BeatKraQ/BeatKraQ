@@ -20,6 +20,9 @@ Alas, I have yet to transform after some more training 😉 <br/>
 </p>
 </div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatKraQ&layout=compact)](https://github.com/BeatKraQ/github-readme-stats)
 <br/>
 ![BeatKraQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatKraQ&show_icons=true&theme=radical)
