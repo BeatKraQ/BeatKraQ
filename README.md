@@ -1,4 +1,3 @@
-![BeatKraQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatKraQ&hide=contribs,prs)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hyunwoo%20Kim&fontSize=90)
 
 <h3 align="center"> 🛠️Tech Stack 🛠️</h3>
@@ -21,4 +20,4 @@ Alas, I have yet to transform after some more training 😉 <br/>
 </p>
 </div>
 
-![BeatKraQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatKraQ&count_private=true)
+![BeatKraQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatKraQ&show_icons=true&theme=radical)
