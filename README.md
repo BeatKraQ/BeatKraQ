@@ -13,11 +13,13 @@
 <br/>
 <br/>
 <div background-color="white">
-  <p align="center">
-    Hi there! <br/>
-    You came across the work archive of soon-to-be the best data scientist in this universe! <br/>
-    Alas, I have yet to transform after some more training 😉 <br/>
-  </p>
+  <blockquote>
+    <p align="center">
+      Hi there! <br/>
+      You came across the work archive of soon-to-be the best data scientist in this universe! <br/>
+      Alas, I have yet to transform after some more training 😉 <br/>
+    </p>
+  </blockquote>
 </div>
 
 <div align="center">
