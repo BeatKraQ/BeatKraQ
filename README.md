@@ -20,3 +20,4 @@ Alas, I have yet to transform after some more training 😉 <br/>
 </p>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
