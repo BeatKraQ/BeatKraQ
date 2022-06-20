@@ -14,11 +14,12 @@
 </div>
 <br/>
 
-<span align="center" style="color: #D3D1D1; background-color: #353535; width:400">
+<span align="center" style="color: #D3D1D1; background-color: #353535;">
+
       Hi there! 
       You came across the work archive of soon-to-be the best data scientist in this universe! 
-      Alas, I have yet to 'transform' after some more 'training' 😉 
-</span>
+      Alas, I have yet to 'transform' after some more 'training' 😉
+
 <br/>
 <div align="center">
   <a align="center" href="(https://github.com/BeatKraQ/github-readme-stats">
