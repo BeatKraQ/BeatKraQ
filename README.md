@@ -13,13 +13,13 @@
 </p>
 </div>
 <br/>
-
-<span align="center" style="color: #D3D1D1; background-color: #353535;  display: inline-block; width:200">
-
-      Hi there! 
-      You came across the work archive of soon-to-be the best data scientist in this universe! 
-      Alas, I have yet to 'transform' after some more 'training' 😉
-
+<div style="width:300">
+	<span align="center" style="color: #D3D1D1; background-color: #353535;  display: inline-block">
+      		Hi there! 
+      		You came across the work archive of soon-to-be the best data scientist in this universe! 
+      		Alas, I have yet to 'transform' after some more 'training' 😉
+	</span>
+</div>
 <br/>
 <div align="center">
   <a align="center" href="(https://github.com/BeatKraQ/github-readme-stats">
