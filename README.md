@@ -13,11 +13,15 @@
 </p>
 </div>
 <br/>
-<span align="center" style="display: inline-block;width: 50%;">
-	
+<span align="center">	
+<pre style="display: block; padding: 20px; border-radius: 10px; width:90%">
+  <code>
     Hi, there!
     You came across the work archive of soon-to-be the best data scientist in this universe!
     Alas, I have yet to 'transform' after some more 'training' 😉
+  </code>
+</pre>
+<br/>
 
 
 <br/>
