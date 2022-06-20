@@ -1,4 +1,4 @@
-<img aling="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/86296329/174510244-a00f7d77-8770-4c3a-9225-46cef3a392c5.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/86296329/174510244-a00f7d77-8770-4c3a-9225-46cef3a392c5.gif">
 
 <h3 align="center"> 🛠️Tech Stack 🛠️</h3>
 
