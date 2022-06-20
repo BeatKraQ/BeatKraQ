@@ -1,4 +1,3 @@
-<div style="width: 50%;">
 <div align="center">
 	<img width="600" src="https://user-images.githubusercontent.com/86296329/174511075-2642bc8d-c6f1-469a-8dc8-f10429607112.gif">
 </div>
@@ -33,6 +32,5 @@
   <a align="center" href="(https://github.com/BeatKraQ/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BeatKraQ&show_icons=true&theme=radical" />
   </a>
-</div>
 </div>
 
