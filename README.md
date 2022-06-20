@@ -13,7 +13,6 @@
 </p>
 </div>
 <br/>
-<br/>
 <div>
   <blockquote>
     <p align="center">
