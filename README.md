@@ -13,7 +13,7 @@
 </p>
 </div>
 <br/>
-<pre style="display: block; padding: 20px; border-radius: 10px; width:90%">
+<pre align="center" style="display: block; padding: 20px; border-radius: 10px; width:80%">
   <code>
     Hi, there!
     You came across the work archive of soon-to-be the best data scientist in this universe!
