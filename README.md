@@ -14,7 +14,7 @@
 </div>
 <br/>
 <span align="center">	
-<pre style="display: block; margin: 20px 20px 0 0; border-radius: 10px; width:50%">
+<pre style="display: block; margin: 0 100px 0 100px; border-radius: 10px; width:50%">
   <code>
     Hi, there!
     You came across the work archive of soon-to-be the best data scientist in this universe!
