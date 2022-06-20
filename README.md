@@ -13,8 +13,8 @@
 </p>
 </div>
 <br/>
-<div background-color="grey">
-    <p align="center">
+<div style='background-color: #353535'>
+    <p align="center" style='color: #D3D1D1'>
       Hi there! <br/>
       You came across the work archive of soon-to-be the best data scientist in this universe! <br/>
       Alas, I have yet to 'transform' after some more 'training' 😉 <br/>
