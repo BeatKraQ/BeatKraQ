@@ -21,8 +21,7 @@
     Alas, I have yet to 'transform' after some more 'training' 😉
   </code>
 </pre>
-<br/>
-
+</span>
 
 <br/>
 <div align="center">
