@@ -13,7 +13,7 @@
 </p>
 </div>
 <br/>
-<div>
+<div background-color="grey">
   <blockquote>
     <p align="center">
       Hi there! <br/>
