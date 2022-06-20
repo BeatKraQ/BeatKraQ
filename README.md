@@ -1,8 +1,8 @@
-<img align="right" alt="Coding" width="600" src="https://user-images.githubusercontent.com/86296329/174510244-a00f7d77-8770-4c3a-9225-46cef3a392c5.gif">
-<br/>
-
-<h3 align="center"> 🛠️Tech Stack 🛠️</h3>
-
+<div>
+  <img align="right" alt="Coding" width="600" src="https://user-images.githubusercontent.com/86296329/174510244-a00f7d77-8770-4c3a-9225-46cef3a392c5.gif">
+</div>
+<div>
+  <h3 align="center"> 🛠️Tech Stack 🛠️</h3>
 <p align="center"> Techs that I've used at least once </p>
 
 <p align = "center">
@@ -10,7 +10,7 @@
   <img alt="Javascript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <img alt="CSS3" src= "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"> <img alt="HTML5" src= "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"> <img alt="JSON" src= "https://img.shields.io/badge/JSON-lightgrey?style=flat-square&logo=JSON&logoColor=white"> <img alt="npm" src= "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"> <img alt="jQuery" src= "https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"> <img alt="AWS" src= "https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"><br/>
  <img alt="Streamlit" src= "https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white">
 </p>
-
+</div>
 <br/>
 <br/>
 <div>
