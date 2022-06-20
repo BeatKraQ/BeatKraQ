@@ -13,13 +13,12 @@
 </p>
 </div>
 <br/>
-<pre style="display: block; padding: 20px; border-radius: 10px; width:80%">
-  <code align="center">
+<span align="center">
+	
     Hi, there!
     You came across the work archive of soon-to-be the best data scientist in this universe!
     Alas, I have yet to 'transform' after some more 'training' 😉
-  </code>
-</pre>
+
 
 <br/>
 <div align="center">
