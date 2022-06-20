@@ -4,7 +4,7 @@
 
 <div>
   <h3 align="center"> 🛠️Tech Stack 🛠️</h3>
-<p align="center"> Techs that I've used at least once </p>
+	<p align="center"> Techs that I've used at least once </p>
 
 <p align = "center">
 <img alt="python" src= "https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"> <img alt="R" src= "https://img.shields.io/badge/R-blueviolet?style=flat-square&logo=R&logoColor=white"> <img alt="STATA" src= "https://img.shields.io/badge/STATA-800080?style=flat-square&logo=STATA&logoColor=white"> <img alt="Jupyter" src= "https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"> <img alt="SQLite" src= https://img.shields.io/badge/SQLite-yellowgreen?style=flat-square&logo=SQLite&logoColor=white> <img alt="PostgreSQL" src= "https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"> <img alt="MongoDB" src= "https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"><br/>
@@ -13,6 +13,7 @@
 </p>
 </div>
 <br/>
+
 <div style='background-color: #353535'>
     <p align="center" style='color: #D3D1D1'>
       Hi there! <br/>
@@ -20,6 +21,7 @@
       Alas, I have yet to 'transform' after some more 'training' 😉 <br/>
     </p>
 </div>
+
 <br/>
 <div align="center">
   <a align="center" href="(https://github.com/BeatKraQ/github-readme-stats">
