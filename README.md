@@ -13,7 +13,7 @@
 </p>
 </div>
 <br/>
-<span align="center">
+<span align="center" style="width:80%">
 	
     Hi, there!
     You came across the work archive of soon-to-be the best data scientist in this universe!
