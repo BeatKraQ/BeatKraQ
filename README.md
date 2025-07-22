@@ -16,7 +16,8 @@
 <pre style="margin: 0 100px 0 100px;">
   <code>
     Fueled by coffee and a love for clean data pipelines. 
-    I'm on a perpetual quest to write more efficient code than I did yesterday, ensuring data flows even more smoothly than my morning espresso.
+    I'm on a perpetual quest to write more efficient code than I did yesterday, 
+    ensuring data flows even more smoothly than my morning espresso.
   </code>
 </pre>
 </span>
