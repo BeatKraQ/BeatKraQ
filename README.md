@@ -15,9 +15,8 @@
 <span align="center">	
 <pre style="margin: 0 100px 0 100px;">
   <code>
-    Hi, there!
-    You came across the work archive of soon-to-be the best data scientist in this universe!
-    Alas, I have yet to 'transform' after some more 'training' 😉
+    Fueled by coffee and a love for clean data pipelines. 
+    I'm on a perpetual quest to write more efficient code than I did yesterday, ensuring data flows even more smoothly than my morning espresso.
   </code>
 </pre>
 </span>
